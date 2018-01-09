@@ -173,7 +173,7 @@ a.pure-button-primary {
 .about-container {
     background: #1f8dd6;
     z-index: 1;
-    overflow: hidden;
+    overflow-y: scroll;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
     height: 100%;
