@@ -1,3 +1,2 @@
-Website for the HR consulting firm, The HR Architect.
-
+Visit the website at the following link.
 www.thehrarchitect.com
