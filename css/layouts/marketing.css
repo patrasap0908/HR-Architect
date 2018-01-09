@@ -27,6 +27,7 @@ label {
 
 .container {
     width: 80%;
+    padding-top: 15%;
     margin: 0 auto;
     text-align: center;
 }
@@ -207,7 +208,7 @@ a.pure-button-primary {
 }
 
 .about-us {
-    font-size: 60px;
+    font-size: 3rem;
     font-weight: bold;
     color: white;
     font-weight: 100;
@@ -316,7 +317,7 @@ a.pure-button-primary {
 .exp-head {
     margin-top: 10%;
     font-weight: 600;
-    font-size: 60px;
+    font-size: 2.5rem;
 }
 
 /* This is a modifier class used when the content-head is inside a ribbon */
