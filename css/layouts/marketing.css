@@ -27,7 +27,7 @@ label {
 
 .container {
     width: 80%;
-    padding-top: 15%;
+    padding-top: 10%;
     margin: 0 auto;
     text-align: center;
 }
@@ -315,7 +315,6 @@ a.pure-button-primary {
 }
 
 .exp-head {
-    margin-top: 10%;
     font-weight: 600;
     font-size: 2.5rem;
 }
